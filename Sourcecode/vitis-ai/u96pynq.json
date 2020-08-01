@@ -1,0 +1,5 @@
+{
+    "target"   : "dpuv2", 
+    "dcf"      : "dpuPynq.dcf",
+    "cpu_arch" : "arm64"
+}
