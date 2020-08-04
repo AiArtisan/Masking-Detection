@@ -26,11 +26,11 @@ sudo python3 ./setup.py
 
 #### 使用SD卡存储的验证数据进行测试：
 
-![](https://github.com/seujingwei/Masking-Detection/image/result1.jpg)
-![](https://github.com/seujingwei/Masking-Detection/image/result2.jpg)
+![result1](image/result1.jpg)
+![result2](image/result2.jpg)
 
 #### 使用USB摄像头的实时识别口罩佩戴：
-![](https://github.com/seujingwei/Masking-Detection/image/result3.png)
+![result3](image/result3.png)
 
 ## 问题反馈与交流
 
