@@ -1,5 +1,6 @@
 # AI-Masking-Detection
 Object Detection About Masking For Xilinx Summer School
+
 [中文版](README-zh.md) | English version
 
 ## Introduction
@@ -28,10 +29,10 @@ sudo python3 ./setup.py
 #### Use the verification dataset stored in the SD card for testing:
 
 ![](https://github.com/seujingwei/Masking-Detection/image/result1.jpg)
-![](./image/result2.jpg)
+![](https://github.com/seujingwei/Masking-Detection/image/result2.jpg)
 
 #### Use the USB camera to recognize the mask wearing in real time:
-![](.\image\result3.png)
+![](https://github.com/seujingwei/Masking-Detection/image/result3.png)
 
 ## Feedback and communication
 

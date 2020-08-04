@@ -1,5 +1,6 @@
 # AI口罩佩戴检测系统
 此项目为2020年新工科联盟-Xilinx暑期学校（Summer School）项目
+
 [English Version](README.md) | 中文版
 ## 简介
 ​		针对疫情防控（COVID-19）中的口罩佩戴识别的需求，基于Xilinx最新的Vitis-AI工具，结合自主设计的图像识别网络，快速开发出基于AI口罩佩戴识别系统。最终识别率可达88%以上，并可区分出正确佩戴口罩、不带口罩、错戴口罩、以及捂嘴、带围巾等遮挡的情况。
@@ -25,11 +26,11 @@ sudo python3 ./setup.py
 
 #### 使用SD卡存储的验证数据进行测试：
 
-![](image\result1.jpg)
-![](image\result2.jpg)
+![](https://github.com/seujingwei/Masking-Detection/image/result1.jpg)
+![](https://github.com/seujingwei/Masking-Detection/image/result2.jpg)
 
 #### 使用USB摄像头的实时识别口罩佩戴：
-![](image\result3.png)
+![](https://github.com/seujingwei/Masking-Detection/image/result3.png)
 
 ## 问题反馈与交流
 
