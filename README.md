@@ -27,11 +27,11 @@ sudo python3 ./setup.py
 
 #### Use the verification dataset stored in the SD card for testing:
 
-![](image\结果1.jpg)
-![](image\结果2.jpg)
+![](image\result1.jpg)
+![](image\result2.jpg)
 
 #### Use the USB camera to recognize the mask wearing in real time:
-![](image\结果3.png)
+![](image\result3.png)
 
 ## Feedback and communication
 

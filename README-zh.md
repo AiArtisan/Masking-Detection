@@ -25,11 +25,11 @@ sudo python3 ./setup.py
 
 #### 使用SD卡存储的验证数据进行测试：
 
-![](image\结果1.jpg)
-![](image\结果2.jpg)
+![](image\result1.jpg)
+![](image\result2.jpg)
 
 #### 使用USB摄像头的实时识别口罩佩戴：
-![](image\结果3.png)
+![](image\result3.png)
 
 ## 问题反馈与交流
 
