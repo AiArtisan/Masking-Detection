@@ -36,7 +36,7 @@ import os
 import matplotlib.pyplot as plt
 import time
 class DpuCar(object):
-    def __init__(self, dpu_task, dpu_input_node="x_input_Conv2D", dpu_output_node="y_out_MatMul", dpu_img_size=128):
+    def __init__(self, dpu_task, dpu_input_node="conv2d_Conv2D", dpu_output_node="y_out_MatMul", dpu_img_size=160):
         self.cap = cv2.VideoCapture(0)
         self.cap.set(3, 160)
         self.cap.set(4, 120)
