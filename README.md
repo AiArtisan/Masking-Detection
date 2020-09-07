@@ -36,5 +36,5 @@ sudo python3 ./setup.py
 
 ## Feedback and communication
 
-Welcome friends who love AI and FPGA design to contact me by email`my e-mail：993987093@qq.com`
+Welcome friends who love AI and FPGA design to contact me by email`my e-mail：zhangjingwei@seu.edu.cn`
 
