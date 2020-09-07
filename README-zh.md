@@ -34,5 +34,5 @@ sudo python3 ./setup.py
 
 ## 问题反馈与交流
 
-欢迎各位爱好AI和FPGA设计的朋友们与我邮箱联系`我的邮箱：993987093@qq.com`
+欢迎各位爱好AI和FPGA设计的朋友们与我邮箱联系`我的邮箱：zhangjingwei@seu.edu.cn`
 
